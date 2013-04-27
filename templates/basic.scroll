@@ -38,7 +38,7 @@ options = [€(options)]
 
 
 def build(startdir, srcdir, pkgdir, private):
-    __perfix = '/usr' if not private else '~/.local'.replace('~', get('HOME'))
+    __prefix = '/usr' if not private else '~/.local'.replace('~', get('HOME'))
     cd('%s/%s-%s' % (srcdir, pkgname, pkgver))
     execute('./configure', '--prefix=' + __prefix)
     make()
