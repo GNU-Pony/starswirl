@@ -1,0 +1,164 @@
+:: Commerical :: y = Yes, n = No
+:: Derivatives :: y = Yes, n = No
+:: FSF approved :: y = Yes, n = No, s = Yes, but only for special purposes
+:: OSI approved :: y = Yes, n = No, s = Yes, but only for special purposes
+:: GPL compatible :: 3 = GPLv3 only
+:: Copyleft :: y = Yes, n = No or limited
+:: Contract-based :: y = Yes, n = No
+
+
+AFL1.2 :: Academic Free License, version 1.2 :: ? ? ? ? ? ? ?
+AFL2.1 :: Academic Free License, version 2.1 :: ? ? ? ? ? ? ?
+AFL3.0 :: Academic Free License, version 3.0 :: ? ? y y n n ?
+
+AGPL3 :: GNU Affero General Public License, version 3 :: y y y y 3 y n
+AGPL1 :: Affero General Public License, version 1 :: y y n n n y n
+
+Apache1.0 :: Apache License, version 1.0 :: ? ? y y n ? ?
+Apache1.1 :: Apache License, version 1.1 :: ? ? y y n ? ?
+Apache2.0 :: Apache License, version 2.0 :: ? ? y y 3 n ?
+
+APSL2.0 :: Apple Public Source License, version 2.0 :: ? ? y y n y ?
+
+Artistic1.0 :: Artistic License, version 1.0 :: ? ? n y n n ?
+Artistic2.0 :: Artistic License, version 2.0 :: ? ? y y y n ?
+
+pBSD :: Prior BSD License :: ? ? y n n n ?
+BSD :: BSD License ("4-clause BSD") :: ? ? y n n n ?
+nBSD :: New BSD License ("3-clause BSD", "Modified BSD") :: ? ? y y y n ?
+sBSD :: Simplified BSD License ("2-clause BSD", "FreeBSD") :: ? ? y y y n ?
+
+Boost :: Boost Software License, version 1.0 :: ? ? y y y n ?
+
+CC0-1.0 :: Creative Commons Zero 1.0 Universal :: y y y ? y n n
+
+CC-by-1.0 :: Creative Commons Public License - Attribution, version 1.0 :: y y ? ? n n n
+CC-by-2.0 :: Creative Commons Public License - Attribution, version 2.0 :: y y y ? n n n
+CC-by-3.0 :: Creative Commons Public License - Attribution, version 3.0 :: y y ? ? n n n
+
+CC-by-nc-1.0 :: Creative Commons Public License - Attribution Non-Commercial, version 1.0 :: n y n ? n n n
+CC-by-nc-2.0 :: Creative Commons Public License - Attribution Non-Commercial, version 2.0 :: n y n ? n n n
+CC-by-nc-3.0 :: Creative Commons Public License - Attribution Non-Commercial, version 3.0 :: n y n ? n n n
+
+CC-by-nc-nd-1.0 :: Creative Commons Public License - Attribution Non-Commercial No Derivatives, version 1.0 :: n n n ? n n n
+CC-by-nc-nd-2.0 :: Creative Commons Public License - Attribution Non-Commercial No Derivatives, version 2.0 :: n n n ? n n n
+CC-by-nc-nd-3.0 :: Creative Commons Public License - Attribution Non-Commercial No Derivatives, version 3.0 :: n n n ? n n n
+
+CC-by-nc-sa-1.0 :: Creative Commons Public License - Attribution Non-Commercial Share Alike, version 1.0 :: n y n ? n n n
+CC-by-nc-sa-2.0 :: Creative Commons Public License - Attribution Non-Commercial Share Alike, version 2.0 :: n y n ? n n n
+CC-by-nc-sa-3.0 :: Creative Commons Public License - Attribution Non-Commercial Share Alike, version 3.0 :: n y n ? n n n
+
+CC-by-nd-1.0 :: Creative Commons Public License - Attribution No Derivatives, version 1.0 :: y n ? ? n n n
+CC-by-nd-2.0 :: Creative Commons Public License - Attribution No Derivatives, version 2.0 :: y n ? ? n n n
+CC-by-nd-3.0 :: Creative Commons Public License - Attribution No Derivatives, version 3.0 :: y n s ? n n n
+
+CC-by-sa-1.0 :: Creative Commons Public License - Attribution Share Alike, version 1.0 :: y y ? ? n y n
+CC-by-sa-2.0 :: Creative Commons Public License - Attribution Share Alike, version 2.0 :: y y y ? n y n
+CC-by-sa-3.0 :: Creative Commons Public License - Attribution Share Alike, version 3.0 :: y y ? ? n y n
+
+CeCILL1.0 :: CEA CNRS INRIA Logiciel Libre, version 1.0 :: ? ? ? ? ? ? ?
+CeCILL2.0 :: CEA CNRS INRIA Logiciel Libre, version 2.0 :: ? ? y n y y ?
+CeCILL-B :: CEA CNRS INRIA Logiciel Libre, B :: ? ? ? ? ? ? ?
+CeCILL-C :: CEA CNRS INRIA Logiciel Libre, C :: ? ? ? ? ? ? ?
+
+CDDL :: Common Development and Distribution License :: ? ? y y n n ?
+
+CPOL :: Code Project Open License :: ? ? n n n n ?
+
+CPL :: Common Public License, version 1.0 :: ? ? y y n y ?
+
+Cryptix :: Cryptix General License :: ? ? y ? y ? ?
+
+WTFPL1 :: Do What The Fuck You Want To Public License :: y y ? ? y n n
+WTFPL2 :: Do What The Fuck You Want To Public License :: y y y n y n n
+
+EPL :: Eclipse Public License :: ? ? y y n n ?
+
+ECL1.0 :: Educational Community License, version 1.0 :: ? ? ? ? ? ? ?
+ECL2.0 :: Educational Community License, version 2.0 :: ? ? y y y n ?
+
+EFL1 :: Eiffel Forum License, version 1 :: ? ? ? ? n ? ?
+EFL2 :: Eiffel Forum License, version 2 :: ? ? y y y n ?
+
+EUPL1.0 :: European Union Public Licence, version 1.0 :: ? ? ? ? ? ? ?
+EUPL1.1 :: European Union Public Licence, version 1.1 :: ? ? y y y y ?
+
+Fair :: Fair Licence :: y y ? y y n n
+
+GNUAllPermissive :: GNU All Permissive License :: y y y ? y n n
+
+GPL1 :: GNU General Public License, version 1.0 :: y y y ? y y n
+GPL2 :: GNU General Public License, version 2.0 :: y y y y y y n
+GPL3 :: GNU General Public License, version 3.0 :: y y y y y y n
+
+LGPL2.0 :: GNU Library General Public License, version 2.0 :: y y y ? y y n
+LGPL2.1 :: GNU Lesser General Public License, version 2.1 :: y y y y y y n
+LGPL3 :: GNU Lesser General Public License, version 3.0 :: y y y y y y n
+
+FDL1.1 :: GNU Free Documentation License, version 1.1 :: y y y ? y y n
+FDL1.2 :: GNU Free Documentation License, version 1.2 :: y y y ? y y n
+FDL1.3 :: GNU Free Documentation License, version 1.3 :: y y y ? y y n
+
+GNUVerbatim :: GNU Verbatim Copying License :: y n s ? n n n
+
+HESSLA :: Hacktivismo Enhanced-Source Software License Agreement :: ? y n n n ? y
+TESLA :: Torrify Ethical Software License Agreement :: ? ? ? ? ? ? ?
+
+IPL :: IBM Public License :: ? ? y y n y ?
+
+IOSL :: Intel Open Source License :: ? ? y y y n ?
+
+ISC :: ISC license :: y y y y y n n
+
+LPPL1.0 :: LaTeX Project Public License, vesion 1.0 :: ? ? ? ? ? ? ?
+LPPL1.1 :: LaTeX Project Public License, vesion 1.1 :: ? ? ? ? ? ? ?
+LPPL1.2 :: LaTeX Project Public License, vesion 1.2 :: ? ? ? ? ? ? ?
+LPPL1.3a :: LaTeX Project Public License, vesion 1.3a :: ? ? ? ? ? ? ?
+LPPL1.3b :: LaTeX Project Public License, vesion 1.3b :: ? ? ? ? ? ? ?
+LPPL1.3c :: LaTeX Project Public License, vesion 1.3c :: ? ? y y n n ?
+
+Ms-PL :: Microsoft Public License :: ? ? y n ? ? ?
+Ms-RL :: Microsoft Reciprocal License :: ? ? y n ? ? ?
+
+MIT :: MIT License :: y y y y y n n
+
+MPL1.1 :: Mozilla Public License, version 1.0 :: y y y n ? ? ?
+MPL2.0 :: Mozilla Public License, version 1.0 :: y y y y y n ?
+
+NPL1.1 :: Netscape Public License, version 1.1 :: ? ? y n n y ?
+
+OFPL :: OPaC Free Public License :: ? ? n n n y ?
+
+OSL3.0 :: Open Software License, version 3.0 :: ? ? y y n y ?
+
+PHP3.01 :: PHP License, version 3.01 :: ? ? y y n n ?
+
+PSF2.0.1 :: Python Software Foundation License, version 2.0.1 :: ? ? y y y n ?
+PSF2.1.1 :: Python Software Foundation License, version 2.1.1 :: ? ? y y y n ?
+
+QPL :: Q Public License :: ? ? y y n n ?
+
+RALINK :: Ralink Technology Corporation Firmware License :: ? ? ? ? ? ? ?
+
+RUBY :: Ruby Programming Language License :: ? ? ? ? ? ? ?
+
+SPL :: Sleepycat License ("Berkeley Database License", "Sleepycat Public License") :: ? ? y y y y
+
+SISSL :: Sun Industry Standards Source License, version 1.0 :: ? ? y y n ? ?
+
+SunPL :: Sun Public License :: ? ? y y ? ? ?
+
+Sybase :: Sybase Open Watcom Public License :: ? ? n y n ? ?
+
+W3C :: W3C Software Notice and License :: ? ? y y y n ?
+
+XOSL :: XCore Open Source Licenses :: ? ? y ? ? ? ?
+
+ZPL1.0 :: Zope Public License :: ? ? y n ? ? ?
+ZPL2.0 :: Zope Public License :: ? ? y y ? ? ?
+ZPL2.1 :: Zope Public License :: ? ? y y y n ?
+
+public :: (Public domain with source) :: y y y ? y n n
+public-bin :: (Public domain without source, and thus, proprietary) :: y y ? ? n n n
+none :: (No license, and thus, proprietary) :: n n n n n n n
+
