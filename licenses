@@ -14,7 +14,8 @@ AFL2.1 :: Academic Free License, version 2.1 :: ? ? ? ? ? ? ?
 AFL3.0 :: Academic Free License, version 3.0 :: ? ? y y n n ?
 
 AGPL3 :: GNU Affero General Public License, version 3 :: y y y y 3 y n
-AGPL1 :: Affero General Public License, version 1 :: y y n n n y n
+AGPL2 :: Affero General Public License, version 2 :: y y ? ? ? y n
+AGPL1 :: Affero General Public License, version 1 :: y y n ? n y n
 
 Apache1.0 :: Apache License, version 1.0 :: ? ? y y n ? ?
 Apache1.1 :: Apache License, version 1.1 :: ? ? y y n ? ?
@@ -22,6 +23,7 @@ Apache2.0 :: Apache License, version 2.0 :: ? ? y y 3 n ?
 
 APSL2.0 :: Apple Public Source License, version 2.0 :: ? ? y y n y ?
 
+PerlArtistic :: Perl Artistic License, version 1.0 :: ? ? ? ? ? ? ?
 Artistic1.0 :: Artistic License, version 1.0 :: ? ? n y n n ?
 Artistic2.0 :: Artistic License, version 2.0 :: ? ? y y y n ?
 
@@ -30,7 +32,7 @@ BSD :: BSD License ("4-clause BSD") :: ? ? y n n n ?
 nBSD :: New BSD License ("3-clause BSD", "Modified BSD") :: ? ? y y y n ?
 sBSD :: Simplified BSD License ("2-clause BSD", "FreeBSD") :: ? ? y y y n ?
 
-Boost :: Boost Software License, version 1.0 :: ? ? y y y n ?
+BSL :: Boost Software License, version 1.0 :: ? ? y y y n ?
 
 CC0-1.0 :: Creative Commons Zero 1.0 Universal :: y y y ? y n n
 
@@ -58,14 +60,14 @@ CC-by-sa-1.0 :: Creative Commons Public License - Attribution Share Alike, versi
 CC-by-sa-2.0 :: Creative Commons Public License - Attribution Share Alike, version 2.0 :: y y y ? n y n
 CC-by-sa-3.0 :: Creative Commons Public License - Attribution Share Alike, version 3.0 :: y y ? ? n y n
 
-CeCILL1.0 :: CEA CNRS INRIA Logiciel Libre, version 1.0 :: ? ? ? ? ? ? ?
-CeCILL2.0 :: CEA CNRS INRIA Logiciel Libre, version 2.0 :: ? ? y n y y ?
+CeCILL1 :: CEA CNRS INRIA Logiciel Libre, version 1 :: ? ? ? ? ? ? ?
+CeCILL2 :: CEA CNRS INRIA Logiciel Libre, version 2 :: ? ? y n y y ?
 CeCILL-B :: CEA CNRS INRIA Logiciel Libre, B :: ? ? ? ? ? ? ?
 CeCILL-C :: CEA CNRS INRIA Logiciel Libre, C :: ? ? ? ? ? ? ?
 
 CDDL :: Common Development and Distribution License :: ? ? y y n n ?
 
-CPOL :: Code Project Open License :: ? ? n n n n ?
+CPOL :: Code Project Open License :: n y n n n n y
 
 CPL :: Common Public License, version 1.0 :: ? ? y y n y ?
 
@@ -144,11 +146,11 @@ RALINK :: Ralink Technology Corporation Firmware License :: ? ? ? ? ? ? ?
 
 RUBY :: Ruby Programming Language License :: ? ? ? ? ? ? ?
 
-SPL :: Sleepycat License ("Berkeley Database License", "Sleepycat Public License") :: ? ? y y y y
+Sleepycat :: Sleepycat License ("Berkeley Database License", "Sleepycat Public License") :: ? ? y y y y
 
 SISSL :: Sun Industry Standards Source License, version 1.0 :: ? ? y y n ? ?
 
-SunPL :: Sun Public License :: ? ? y y ? ? ?
+SPL :: Sun Public License :: ? ? y y ? ? ?
 
 Sybase :: Sybase Open Watcom Public License :: ? ? n y n ? ?
 
