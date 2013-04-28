@@ -180,6 +180,6 @@ ZPL2.0 :: Zope Public License :: ? ? y y ? ? ?
 ZPL2.1 :: Zope Public License :: ? ? y y y n ?
 
 public :: (Public domain with source) :: y y y ? y n n
-public-bin :: (Public domain without source, and thus, proprietary) :: y y ? ? n n n
+public-bin :: (Public domain without source, and thus, proprietary) :: y y n n n n n
 none :: (No license, and thus, proprietary) :: n n n n n n n
 
