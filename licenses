@@ -34,7 +34,7 @@ sBSD :: Simplified BSD License ("2-clause BSD", "FreeBSD") :: ? ? y y y n ?
 
 BSL :: Boost Software License, version 1.0 :: ? ? y y y n ?
 
-CC0-1.0 :: Creative Commons Zero 1.0 Universal :: y y y ? y n n
+CC0 :: Creative Commons Zero 1.0 Universal :: y y y ? y n n
 
 CC-by-1.0 :: Creative Commons Public License - Attribution, version 1.0 :: y y ? ? n n n
 CC-by-2.0 :: Creative Commons Public License - Attribution, version 2.0 :: y y y ? n n n
