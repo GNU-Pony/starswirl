@@ -160,7 +160,9 @@ RUBY :: Ruby Programming Language License :: ? ? ? ? ? ? ?
 
 Sleepycat :: Sleepycat License ("Berkeley Database License", "Sleepycat Public License") :: ? ? y y y y
 
-SISSL :: Sun Industry Standards Source License, version 1.0 :: ? ? y y n ? ?
+SISSL1.0 :: Sun Industry Standards Source License, version 1.0 :: ? ? y y n ? ?
+SISSL1.1 :: Sun Industry Standards Source License, version 1.1 :: ? ? ? ? ? ? ?
+SISSL1.2 :: Sun Industry Standards Source License, version 1.2 :: ? ? ? ? ? ? ?
 
 SPL :: Sun Public License :: ? ? y y ? ? ?
 
