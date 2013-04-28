@@ -7,6 +7,8 @@
 :: Contract-based :: y = Yes, n = No
 
 
+AAL :: Attribution Assurance License :: ? ? ? y ? ? ?
+
 AFL1.1 :: Academic Free License, version 1.1 :: ? ? ? ? ? ? ?
 AFL1.2 :: Academic Free License, version 1.2 :: ? ? ? ? ? ? ?
 AFL2.0 :: Academic Free License, version 2.0 :: ? ? ? ? ? ? ?
@@ -33,6 +35,10 @@ nBSD :: New BSD License ("3-clause BSD", "Modified BSD") :: ? ? y y y n ?
 sBSD :: Simplified BSD License ("2-clause BSD", "FreeBSD") :: ? ? y y y n ?
 
 BSL :: Boost Software License, version 1.0 :: ? ? y y y n ?
+
+CATOSL1.1 :: Computer Associates Trusted Open Source License 1.1 :: ? ? ? y ? ? ?
+
+CPAL :: Common Public Attribution License, version 1.0 :: ? ? ? y ? ? ?
 
 CC0 :: Creative Commons Zero 1.0 Universal :: y y y ? y n n
 
@@ -75,10 +81,14 @@ CPL :: Common Public License, version 1.0 :: ? ? y y n y ?
 
 Cryptix :: Cryptix General License :: ? ? y ? y ? ?
 
+CUA-OPL :: CUA Office Public License Version 1.0 :: ? ? ? y ? ? ?
+
 WTFPL1 :: Do What The Fuck You Want To Public License :: y y ? ? y n n
 WTFPL2 :: Do What The Fuck You Want To Public License :: y y y n y n n
 
 EPL :: Eclipse Public License :: ? ? y y n n ?
+
+ECos2.0 :: eCos license, version 2.0 :: ? ? y ? y ? ?
 
 ECL1.0 :: Educational Community License, version 1.0 :: ? ? ? ? ? ? ?
 ECL2.0 :: Educational Community License, version 2.0 :: ? ? y y y n ?
@@ -86,10 +96,20 @@ ECL2.0 :: Educational Community License, version 2.0 :: ? ? y y y n ?
 EFL1 :: Eiffel Forum License, version 1 :: ? ? ? y n ? ?
 EFL2 :: Eiffel Forum License, version 2 :: ? ? y y y n ?
 
+Entessa :: Entessa Public License Version. 1.0 :: ? ? ? y ? ? ?
+
+EUDataGrid :: EU DataGrid Software License :: y y y y y n ?
+
 EUPL1.0 :: European Union Public Licence, version 1.0 :: ? ? ? ? ? ? ?
 EUPL1.1 :: European Union Public Licence, version 1.1 :: ? ? y y y y ?
 
+Expat :: Expat License :: y y y y y n n
+
 Fair :: Fair Licence :: y y ? y y n n
+
+Frameworx :: Frameworx Open License 1.0 :: ? ? ? y ? ? ?
+
+Freetype :: Freetype Project License :: ? ? y ? 3 ? ?
 
 GNUAllPermissive :: GNU All-Permissive License :: y y y ? y n n
 
@@ -110,11 +130,15 @@ GNUVerbatim :: GNU Verbatim Copying License :: y n s ? n n n
 HESSLA :: Hacktivismo Enhanced-Source Software License Agreement :: ? y n n n ? y
 TESLA :: Torrify Ethical Software License Agreement :: ? ? ? ? ? ? ?
 
+IPA :: IPA Font License Agreement, version 1.0 :: ? ? ? y ? ? ?
+
 IPL :: IBM Public License :: ? ? y y n y ?
 
 IOSL :: Intel Open Source License :: ? ? y y y n ?
 
 ISC :: ISC license :: y y y y y n n
+
+HPND :: Historical Permission Notice and Disclaimer :: ? ? ? y ? ? ?
 
 LPPL1.0 :: LaTeX Project Public License, vesion 1.0 :: ? ? ? ? ? ? ?
 LPPL1.1 :: LaTeX Project Public License, vesion 1.1 :: ? ? ? ? ? ? ?
