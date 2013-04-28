@@ -2,7 +2,7 @@
 :: Derivatives :: y = Yes, n = No
 :: FSF approved :: y = Yes, n = No, s = Yes, but only for special purposes
 :: OSI approved :: y = Yes, n = No, s = Yes, but only for special purposes
-:: GPL compatible :: 3 = GPLv3 only
+:: GPL compatible :: y = Yes, n = No 3 = GPLv3 only, -FDL = Not with FDL
 :: Copyleft :: y = Yes, n = No or limited
 :: Contract-based :: y = Yes, n = No
 
@@ -19,10 +19,13 @@ AGPL3 :: GNU Affero General Public License, version 3 :: y y y y 3 y n
 AGPL2 :: Affero General Public License, version 2 :: y y ? ? ? y n
 AGPL1 :: Affero General Public License, version 1 :: y y n ? n y n
 
-Apache1.0 :: Apache License, version 1.0 :: ? ? y y n ? ?
-Apache1.1 :: Apache License, version 1.1 :: ? ? y y n ? ?
-Apache2.0 :: Apache License, version 2.0 :: ? ? y y 3 n ?
+Apache1.0 :: Apache License, version 1.0 :: y y y y n n ?
+Apache1.1 :: Apache License, version 1.1 :: y y y y n n ?
+Apache2.0 :: Apache License, version 2.0 :: y y y y 3 n ?
 
+APSL1.0 :: Apple Public Source License, version 1.0 :: ? ? n ? ? n ?
+APSL1.1 :: Apple Public Source License, version 1.1 :: ? ? n ? ? n ?
+APSL1.2 :: Apple Public Source License, version 1.2 :: ? ? n ? ? n ?
 APSL2.0 :: Apple Public Source License, version 2.0 :: ? ? y y n y ?
 
 PerlArtistic :: Perl Artistic License, version 1.0 :: ? ? ? ? ? ? ?
@@ -206,7 +209,7 @@ Multics :: Multics License :: ? ? ? y ? ? ?
 NTP :: NTP License :: ? ? ? y ? ? ?
 Naumen :: NAUMEN Public License :: ? ? ? y ? ? ?
 NGPL :: The Nethack General Public License :: ? ? ? y ? ? ?
-Nokia :: Nokia Open Source License (Nokia or NOKOS), version 1.0a :: ? ? ? y ? ? ?
+Nokia :: Nokia Open Source License (Nokia or NOKOS), version 1.0a :: ? ? y y n ? ?
 RSCPL :: Ricoh Source Code Public License, version 1.0 :: ? ? ? y ? ? ?
 WXwindows :: The wxWindows Library Licence :: ? ? ? y ? ? ?
 Xnet :: The X.Net, Inc. License :: ? ? ? y ? ? ?
@@ -224,10 +227,25 @@ RPL1.1 :: Reciprocal Public License, version 1.1 :: ? ? ? y ? ? ?
 RPL1.3 :: Reciprocal Public License, version 1.3 :: ? ? ? ? ? ? ?
 RPL1.5 :: Reciprocal Public License, version 1.5 :: ? ? ? y ? ? ?
 
-SFL :: iMatix Standard Function Library license :: ? ? y n y ? ?
-IJG :: The Independent JPEG Group's JPEG software license :: ? ? y n y ? ?
-imlib2 :: imlib2 license :: ? ? y n y ? ?
-IntelACPI :: Intel ACPI Software License Agreement :: ? ? y n y ? y
+SFL :: iMatix Standard Function Library license :: ? ? y ? y ? ?
+IJG :: The Independent JPEG Group's JPEG software license :: ? ? y ? y ? ?
+imlib2 :: imlib2 license :: ? ? y ? y ? ?
+IntelACPI :: Intel ACPI Software License Agreement :: ? ? y ? y ? y
+JOSL :: Jabber Open Source License, version 1.0 :: ? ? y ? n ? ?
+LPL1.02 :: Lucent Public License, version 1.02 :: ? ? y y n ? ?
+NOSL :: Netizen Open Source License, version 1.0 :: ? ? y ? n ? ?
+Arphic :: Arphic Public License :: ? ? y ? n ? ?
+DSL :: Design Science License :: ? ? y ? n y ?
+ODbl :: Open Database license :: ? ? y ? n y ?
+OCL :: OpenContent License :: n ? n ? ? ? ?
+OpenPub :: Open Publication License, version 1.0 :: ? ? y ? -FDL y ?
+FreeBSDDL :: FreeBSD Documentation License :: y y y ? y y ?
+ACDL :: Apple's Common Documentation License, version 1.0 :: y y y ? -FDL ? ?
+Ruby :: License of Ruby :: y y y ? y ? ?
+
+FAL1.2 :: Free Art License, version 1.2 :: ? ? ? ? ? ? ?
+FAL1.3 :: Free Art License, version 1.3 :: y y y ? n y ?
+
 
 public :: (Public domain with source) :: y y y ? y n n
 public-bin :: (Public domain without source, and thus, proprietary) :: y y n n n n n
