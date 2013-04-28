@@ -201,6 +201,29 @@ ZPL1.0 :: Zope Public License, version 1.0 :: ? ? y n ? ? ?
 ZPL2.0 :: Zope Public License, version 2.0 :: ? ? y y ? ? ?
 ZPL2.1 :: Zope Public License, version 2.1 :: ? ? y y y n ?
 
+Motosoto :: Motosoto Open Source License, version 0.9.1 :: ? ? ? y ? ? ?
+Multics :: Multics License :: ? ? ? y ? ? ?
+NTP :: NTP License :: ? ? ? y ? ? ?
+Naumen :: NAUMEN Public License :: ? ? ? y ? ? ?
+NGPL :: The Nethack General Public License :: ? ? ? y ? ? ?
+Nokia :: Nokia Open Source License (Nokia or NOKOS), version 1.0a :: ? ? ? y ? ? ?
+RSCPL :: Ricoh Source Code Public License, version 1.0 :: ? ? ? y ? ? ?
+WXwindows :: The wxWindows Library Licence :: ? ? ? y ? ? ?
+Xnet :: The X.Net, Inc. License :: ? ? ? y ? ? ?
+VSL :: Vovida Software License v. 1.0 :: ? ? ? y ? ? ?
+SimPL-2.0 :: Simple Public License 2.0 :: ? ? ? y ? ? ?
+PostgreSQL :: The PostgreSQL Licence :: ? ? ? y ? ? ?
+OGTSL :: The Open Group Test Suite License :: ? ? ? y ? ? ?
+OFL1.1 :: SIL Open Font License, version 1.1 :: ? ? ? y ? ? ?
+RPSL :: RealNetworks Public Source License, version 1.0 :: ? ? ? y ? ? ?
+OCLC2.0 :: OCLC Research Public License 2.0 :: ? ? ? y ? ? ?
+NPOSL3.0 :: Non-Profit Open Software License 3.0 :: ? ? ? y ? ? ?
+NASA1.3 :: NASA Open Source Agreement Version 1.3 :: ? ? ? y ? ? ?
+
+RPL1.1 :: Reciprocal Public License, version 1.1 :: ? ? ? y ? ? ?
+RPL1.3 :: Reciprocal Public License, version 1.3 :: ? ? ? ? ? ? ?
+RPL1.5 :: Reciprocal Public License, version 1.5 :: ? ? ? y ? ? ?
+
 public :: (Public domain with source) :: y y y ? y n n
 public-bin :: (Public domain without source, and thus, proprietary) :: y y n n n n n
 none :: (No license, and thus, proprietary) :: n n n n n n n
