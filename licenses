@@ -175,9 +175,9 @@ XOSL :: XCore Open Source Licenses :: ? ? y ? ? ? ?
 YPL1.0 :: Yahoo! Public License, version 1.0 :: ? ? y n n ? ?
 YPL1.1 :: Yahoo! Public License, version 1.1 :: ? ? y n n ? ?
 
-ZPL1.0 :: Zope Public License :: ? ? y n ? ? ?
-ZPL2.0 :: Zope Public License :: ? ? y y ? ? ?
-ZPL2.1 :: Zope Public License :: ? ? y y y n ?
+ZPL1.0 :: Zope Public License, version 1.0 :: ? ? y n ? ? ?
+ZPL2.0 :: Zope Public License, version 2.0 :: ? ? y y ? ? ?
+ZPL2.1 :: Zope Public License, version 2.1 :: ? ? y y y n ?
 
 public :: (Public domain with source) :: y y y ? y n n
 public-bin :: (Public domain without source, and thus, proprietary) :: y y n n n n n
