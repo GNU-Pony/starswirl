@@ -242,6 +242,9 @@ OpenPub :: Open Publication License, version 1.0 :: ? ? y ? -FDL y ?
 FreeBSDDL :: FreeBSD Documentation License :: y y y ? y y ?
 ACDL :: Apple's Common Documentation License, version 1.0 :: y y y ? -FDL ? ?
 Ruby :: License of Ruby :: y y y ? y ? ?
+Cool :: Cool Public License :: y y ? ? y n n
+Weaker :: Weaker Public License :: y y ? ? y n n
+Weakest :: Weakest Possible License :: y y ? ? ? n n
 
 FAL1.2 :: Free Art License, version 1.2 :: ? ? ? ? ? ? ?
 FAL1.3 :: Free Art License, version 1.3 :: y y y ? n y ?
