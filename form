@@ -1,0 +1,173 @@
+# -*- mode: conf -*-
+# 
+# Please fill out this form, any line starting with a # is ignored when parsed.
+# 
+
+
+NAME = 
+# The name of the scroll. It must only contain lower case
+# letter, digits, plus signs, underscores, dots and hyphens.
+# The name may not start with a hyphen or a dot.
+
+GROUPS = 
+# Scroll groups that the scroll contains to, symbolic names that
+# allow installation of multiple scrolls by specifying one name.
+# Use a hyphen (-) if none so we know that you did not just missed
+# this part of the form; this is most often what you want to do.
+
+VERSION = 
+# The version of the software as released from the author.
+# It may only same characters as the package name, except
+# it may not contain hyphens.
+
+RELEASE = 1
+# Increase by 1 if you make a new scroll without change
+# the version number. Use 1 for you first version of the scroll.
+
+EPOCH = 0
+# Increase by 1 if the scroll version is lower than the
+# previous. That is, if the new scroll versioning system
+# breaks version comparison logic.
+
+DESCRIPTION = 
+# Brief single ling description of the software the scroll
+# provides, try not to use the software's or scroll's name.
+
+UPSTREAM = 
+# The URL that is associated with the software being packaged.
+# Typically the project's website.
+
+SOFTWARE FREEDOM = 
+# What freedom's does the software respect?
+# Possible values are: n/a none share commerial derivative
+# One one may be used, accept if you use both `commerial` and
+# `derivative`. `n/a` is used if the scroll does contain software.
+# `none` is used if the software does not respect any freedoms.
+# `share` is used if the software can be redistributed both
+# does not respect any further freedoms. If the software
+# cannot be redistributed, use `none`. `commerial` is used if
+# the software can be commercially redistributed. `derivative`
+# is used if derivatives of the software can be distributed.
+
+MEDIA FREEDOM = 
+# What freedom's does the media in the scroll respect?
+# Possible values are: n/a none share commerial derivative
+# One one may be used, accept if you use both `commerial` and
+# `derivative`. `n/a` is used if the scroll does contain media.
+# `none` is used if the media does not respect any freedoms.
+# `share` is used if the media can be redistributed both does
+# not respect any further freedoms. If the media cannot be
+# redistributed, use `none`. `commerial` is used if the media
+# can be commercially redistributed. `derivative` is used if
+# derivatives of the media can be distributed.
+
+TRADEMARKED = 
+# Does the scroll install anything that is trademarked?
+# Use one of the values: yes no unknown
+# Keep in mind that outside the U.S. it may not be necessary
+# to use ™ or ® on what is trademarked.
+
+PATENTED = 
+# Does the scroll install anything that is patented?
+# Use one of the values: yes no
+
+PRIVATE = 
+# Can the software be installed without priviliges to a user?
+# Use one of the values: yes no only
+
+INTERACTIVE = 
+# Does the installation require user interaction?
+# Use one of the values: yes no
+# You should really try to avoid interaction.
+
+ARCHITECTURE GOOD = 
+# List architectures that you know that the software runs on.
+# List the architecture `any` if the software does not depend
+# on the architecture and thus runs on all architectures contained
+# in the intersection of the architecture its dependencies runs on.
+# Use `any` if the scroll does not install any software.
+
+ARCHITECTURE BAD = 
+# List architectures that you know that the software does not
+# run on despite all its dependencies supporting it, or are
+# incompatible with the architecture the software is specifically
+# written for. If you do not know of any incompatible architectures
+# put a hyphen (-) so we know that you did not just miss this
+# part of the form.
+
+CONFLICTS = 
+# List scrolls that cannot be installed at the same time.
+# Put a hyphen (-) if none so we know that you did not just miss
+# this part of the form.
+# If a conflicting scroll is limited to a range of versions
+# (multiple ranges can be used by adding multiple items in the list)
+# format in one of the following formats:
+#     name<[epoch:]version[-release]
+#     name<=[epoch:]version[-release]
+#     name=[epoch:]version[-release]
+#     name>=[epoch:]version[-release]
+#     name>[epoch:]version[-release]
+#     name<>[epoch:]version[-release]
+#     name>[epoch:]version[-release]<[epoch:]version[-release]
+#     name>=[epoch:]version[-release]<[epoch:]version[-release]
+#     name>[epoch:]version[-release]<=[epoch:]version[-release]
+#     name>=[epoch:]version[-release]<=[epoch:]version[-release]
+
+REPLACES = 
+# List scrolls that this scroll replaces.
+# Format in the same way as CONFLICTS.
+
+PROVIDES = 
+# Virtual scrolls that this scroll provies. Can be used to allow
+# selection of a scroll to provide a feature that multiple
+# scrolls provides.
+# Format in the same way as CONFLICTS.
+
+EXTENSION = 
+# Scroll that the scroll extends, meaning that the scroll is
+# meaningless without that scroll and should be uninstalled when
+# that scroll is uninstalled. Runtime dependency is implied.
+# Use a hyphen (-) if none so we know that you did not just missed
+# this part of the form.
+
+VARIANT = 
+# Scroll that the scroll is an variant of, may or may not be
+# installed at the same time. It is implied that the scroll
+# provides the scroll of which it is a variant.
+# Use a hyphen (-) if none so we know that you did not just missed
+# this part of the form.
+
+PATCH = 
+# Scroll that the scroll patches when that scroll is built.
+# Use a hyphen (-) if none so we know that you did not just missed
+# this part of the form.
+
+PATCH BEFORE = 
+# Other patches the patch must be applied before.
+# Format in the same way as CONFLICTS.
+
+PATCH AFTER = 
+# Other patches that must be applied before the patch.
+# Format in the same way as CONFLICTS.
+
+DEPENDENCIES = 
+# Scrolls required by the scroll at runtime.
+# Format in the same way as CONFLICTS.
+
+MAKE DEPENDENCIES = 
+# Scrolls required by the scroll at maketime.
+# Format in the same way as CONFLICTS.
+
+CHECK DEPENDENCIES = 
+# Scrolls required by the scroll at checktime.
+# Format in the same way as CONFLICTS.
+
+OPTIONAL DEPENDENCIES = 
+# Optional scrolls that add functionality to the scroll at runtime.
+# Format in the same way as CONFLICTS.
+
+REASON = -
+# Reason why the scroll has been placed in its current repository;
+# every scroll in limbo should have this field. But otherwise
+# you would probably like to ignore it.
+
